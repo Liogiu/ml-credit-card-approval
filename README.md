@@ -59,9 +59,8 @@ The final model was assessed using:
 
 ## Files in this Repository
 
-- `ProvaML_Modelli_Algoritmi.ipynb`: full notebook containing data analysis, preprocessing, model training and evaluation.
-- Dataset file (not included in the repository). If the dataset is public, please add instructions or a link to retrieve it.
-
+- `ml_credit_card_approval.ipynb`: full notebook containing data analysis, preprocessing, model training and evaluation.
+  
 ## How to Run the Notebook
 
 1. Install required libraries
