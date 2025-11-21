@@ -66,9 +66,7 @@ The final model was assessed using:
 
 1. Install required libraries
 Add additional packages if used in the notebook.
-2. Ensure the dataset file is located in the same directory as the notebook.
-3. Run the notebook
-4. Execute the cells in order.
+2. Run the notebook
 
 ## Purpose of the Project
 
